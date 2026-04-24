@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Apr 24 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@ollietreend](https://github.com/ollietreend))
+
+#### Authors: 1
+
+- Ollie Treend ([@ollietreend](https://github.com/ollietreend))
+
+---
+
 # v0.0.1 (Mon Jan 05 2026)
 
 :tada: This release contains work from a new contributor! :tada:
